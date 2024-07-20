@@ -5,7 +5,7 @@
 
 In this appilcation, I'm doing basic CRUD operations on the swagger API like..
 
-- Creating the TODO              (C)
-- Read all TODO                  (R)
-- Updating the particular TODO   (U)
-- Delete the particular TODO     (D)
+- Creating the TODO              
+- Read all TODO                  
+- Updating the particular TODO   
+- Delete the particular TODO     
