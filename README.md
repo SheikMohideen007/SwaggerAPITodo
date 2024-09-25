@@ -1,4 +1,4 @@
-# Simple Todo App using Swagger API/
+# Simple Todo App using Swagger API
 
 # API Endpoint
 - https://api.nstack.in/#/
